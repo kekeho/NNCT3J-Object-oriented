@@ -4,5 +4,7 @@ public class Main{
     sengyo.working();
     MarketJob seika = new Seika();
     seika.working();
+    MarketJob seiniku = new Seiniku();
+    seiniku.working();
   }
 }
